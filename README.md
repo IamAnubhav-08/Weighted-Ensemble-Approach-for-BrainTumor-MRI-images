@@ -6,4 +6,4 @@ In this project, we try out different transfer learning models such as Resnet50,
 
 The final test accuracy of the ensemble model is ***98.98%***
 
-***Data**
+
