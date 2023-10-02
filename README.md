@@ -9,16 +9,16 @@ Early detection and classification of brain tumors is an important research doma
 
 Example of Brain Tumor MRI images 
 # Glioma
-![Tr-gl_0012](https://github.com/IamAnubhav-08/Weighted-Ensemble-Approach-for-BrainTumor-MRI-images/assets/75220234/dd0a7edb-0ce1-469a-abda-5942c913b59a|width=100))
+![Tr-gl_0012](https://github.com/IamAnubhav-08/Weighted-Ensemble-Approach-for-BrainTumor-MRI-images/assets/75220234/dd0a7edb-0ce1-469a-abda-5942c913b59a|width=100)
 
 # Meningioma
 ![Tr-me_0023](https://github.com/IamAnubhav-08/Weighted-Ensemble-Approach-for-BrainTumor-MRI-images/assets/75220234/89d66332-aff3-47db-979d-5636872e2dec|width=100)
 
 # No Tumor
-![Tr-no_0039](https://github.com/IamAnubhav-08/Weighted-Ensemble-Approach-for-BrainTumor-MRI-images/assets/75220234/1220c080-fcfb-4efc-9192-f141b3c08d4d|width=100))
+![Tr-no_0039](https://github.com/IamAnubhav-08/Weighted-Ensemble-Approach-for-BrainTumor-MRI-images/assets/75220234/1220c080-fcfb-4efc-9192-f141b3c08d4d)
 
 # Pituitary
-![Tr-pi_0010](https://github.com/IamAnubhav-08/Weighted-Ensemble-Approach-for-BrainTumor-MRI-images/assets/75220234/1969bd95-b5f1-498f-84e4-b44f501b890f|width=100))
+![Tr-pi_0010](https://github.com/IamAnubhav-08/Weighted-Ensemble-Approach-for-BrainTumor-MRI-images/assets/75220234/1969bd95-b5f1-498f-84e4-b44f501b890f)
 
 ## An ensemble approach using 3 CNN models to classify the brain tumor MRI images
 
